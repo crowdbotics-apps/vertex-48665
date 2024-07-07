@@ -77,6 +77,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-two-factor-authentication](backend/modules)
 - [django-ocr](backend/modules)
 - [django-paypal](backend/modules)
+- [django-video-uploader](backend/modules)
 
 # Getting started: Frontend
 
