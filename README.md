@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-azure-ad-auth](modules/azure-ad-auth)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
+- [django-files](backend/modules)
 
 # Getting started: Frontend
 
