@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-social-login](modules/social-login)
 - [react-native-user-profile](modules/user-profile)
 - [react-native-azure-ad-auth](modules/azure-ad-auth)
+- [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 
 # Getting started: Frontend
 
