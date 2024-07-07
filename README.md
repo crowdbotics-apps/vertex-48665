@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-mailchimp](backend/modules)
 - [django-two-factor-authentication](backend/modules)
 - [django-ocr](backend/modules)
+- [django-paypal](backend/modules)
 
 # Getting started: Frontend
 

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3df52322d45bf398ad06b39a9c05f178563d6b51dc86fcfb0133572a88563589"
+            "sha256": "51487411d8db0173727069c3876dffdcf1acc54042e293fab3ff1f7ef921399b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -221,6 +221,10 @@
         "cb-django-ocr": {
             "editable": true,
             "path": "./modules/django_ocr"
+        },
+        "cb-django-paypal": {
+            "editable": true,
+            "path": "./modules/django_paypal"
         },
         "cb-django-two-factor-authentication": {
             "editable": true,
